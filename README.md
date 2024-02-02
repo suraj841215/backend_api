@@ -2,8 +2,9 @@ How to run this project
 1. first download this project
 2. After download change the project name backend_api-main to backend_api
 3. then Run this command composer update
-4. After update import database file
-5. then run this command php artisan serve 
+4. Now create database name = backend_api 
+5. After create database import database file
+6. then run this command php artisan serve 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
